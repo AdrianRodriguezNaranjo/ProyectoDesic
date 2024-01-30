@@ -1,0 +1,31 @@
+.bodyRegister{
+    background-color: #3D505D;
+    color: white;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+.form-group-first{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.form-group{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.btn-success{
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
